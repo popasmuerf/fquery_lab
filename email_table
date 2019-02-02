@@ -1,0 +1,5 @@
+create table email_table(
+   person.person_id VARCHAR(20) NOT NULL,
+   
+
+);
